@@ -1,10 +1,5 @@
 # travelz
 
-
-## Preview
-
-![preview img](/preview.png)
-
 ### Download Project
 
 ```bash
